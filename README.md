@@ -17,6 +17,16 @@ hello-csharp
 
 ## 2. 프로젝트 실행 방법
 
-1. `.\HelloCSharp\Program.cs` 선택
+1. 디렉토리 이동
+```
+cd hello-csharp
+```
 
-2. 우측 상단의 화살표 클릭
+2. `VS Code` 실행
+```
+code .
+```
+
+3. `.\HelloCSharp\Program.cs` 선택
+
+4. 우측 상단의 화살표 클릭
